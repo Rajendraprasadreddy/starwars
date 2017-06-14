@@ -1,0 +1,21 @@
+{
+    "data":[
+    {
+      "username": "Skywalker",
+      "password": "42BBY"
+    },
+    {
+      "username": "BobaFett",
+      "password": "32BBY"
+    },
+    {
+      "username": "HanSolo",
+      "password": "29BBY"
+    },
+    {
+      "username": "LukeSkywalker",
+      "password": "19BBY"
+      
+    }
+  ]
+}
